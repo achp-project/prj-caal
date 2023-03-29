@@ -1,2 +1,2 @@
 # prj-caal
-repository for Central Asian Archaeological Landscapes (CAAL) project
+repository for the Central Asian Archaeological Landscapes (CAAL) project
